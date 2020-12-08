@@ -10,7 +10,7 @@ paquetes=($(apt list --upgradable 2>/dev/null | cut -d'/' -f1))
 #Eliminamos la primera posicion del array ya que contiene el listando en el idioma del sistema
 unset paquetes[0]
 #vamos paquete por paquete instalando
-for i in ${paquetes[@]}
+for i in "${paquetes[@]}"
 do
 		echo -e "\e[93mActualizando con apt-build el paquete ""${i}"
 		cgexec -g memory:RAMlimitada apt-build install "${i}"
