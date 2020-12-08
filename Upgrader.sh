@@ -8,7 +8,7 @@ apt update
 #listamos los paquetes a actualizar sin añadidos detras del nombre del paquete y meterlos en el array  grep -v "^Listing" |
 paquetes=($(apt list --upgradable 2>/dev/null | cut -d'/' -f1))
 #Eliminamos la primera posicion del array ya que contiene el listando en el idioma del sistema
-unset paquetes[0]
+unset 'paquetes[0]'
 #vamos paquete por paquete instalando
 for i in "${paquetes[@]}"
 do
