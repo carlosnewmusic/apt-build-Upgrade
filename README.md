@@ -1,5 +1,7 @@
 # apt-build-Upgrade
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+apt-build-Upgrade de Carlos Rascon García tiene licencia CC BY-NC-SA 4.0
+
 Actualiza, compila lo que puedas para un sistema mas rápido en donde aprovechar todos los recursos disponibles.  
 
 Esta idea surge de que todos necesitamos un sistema actualizado a la ultima versión, pero mejor si lo hacemos con apt-build dejándolo optimizado para nuestro procesador, así ahorrar recursos y tiempo de cpu posterior, pero como no todos nuestros paquetes suelen tener sources pues igual se actualizan aunque falle la compilación o no existan sources de ese paquete
