@@ -1,0 +1,2 @@
+# apt-build-Upgrade
+Actualiza, compila lo que puedas para un sistema mas rápido en donde aprovechar todos los recursos disponibles.  Esta idea surge de que todos necesitamos un sistema actualizado a la ultima versión, pero mejor si lo hacemos con apt-build dejándolo optimizado para nuestro procesador, así ahorrar recursos y tiempo de cpu posterior, pero como no todos nuestros paquetes suelen tener sources pues igual se actualizan aunque falle la compilación o no existan sources de ese paquete
