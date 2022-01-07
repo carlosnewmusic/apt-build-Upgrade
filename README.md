@@ -1,5 +1,6 @@
 # apt-build-Upgrade 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarlosnewmusic%2Fapt-build-Upgrade.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarlosnewmusic%2Fapt-build-Upgrade?ref=badge_shield)
 apt-build-Upgrade de Carlos Rascon García tiene licencia CC BY-NC-SA 4.0
 [![Maintainability](https://api.codeclimate.com/v1/badges/11059cea11666bc9a5b8/maintainability)](https://codeclimate.com/github/carlosnewmusic/apt-build-Upgrade/maintainability)
 
@@ -12,3 +13,7 @@ Esta idea surge de que todos necesitamos un sistema actualizado a la ultima vers
 Upgrade, compile what you can for a faster system where you can take advantage of all available resources.  
 
 This idea arises from the fact that we all need a system updated to the latest version, but better if we do it with apt-build leaving it optimized for our processor, this way we save resources and time of later cpu, but as not all our packages usually have sources because they are updated even if the compilation fails or there are no sources of that package.  
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarlosnewmusic%2Fapt-build-Upgrade.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarlosnewmusic%2Fapt-build-Upgrade?ref=badge_large)
